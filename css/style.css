@@ -1,0 +1,229 @@
+*{
+padding:0;
+margin:0;
+}
+.main_container{
+	border:1px solid grey;
+	border-radius:4px;
+	width:80%;
+	
+	margin: 0 auto;
+	height: 877px;;
+}
+.content_container{
+	display:flex;
+	font-family:Segoe UI Symbol;
+}
+.sub_container{
+	display:flex;
+}
+.image1_container{
+	width:217px;
+	height:300px;
+background-image:url(../img/multishirt.jpg);
+background-size: cover;
+outline:none;
+border-radius: 7px;
+margin:22px;
+}
+.image2_container{
+	margin-top:20px;
+}
+.bac1_container{
+	width:200px;
+	height:100px;
+background-image:url(../img/black.jpg);
+background-size: cover;
+outline:none;
+margin:48px;
+border-radius:3px;
+}
+.bac2_container{
+	width:200px;
+	height:100px;
+background-image:url(../img/grey.jpg);
+background-size: cover;
+outline:none;
+margin:52px;
+border-radius: 7px;
+}
+.image3_container{
+	width:200px;
+	height:300px;
+background-image:url(../img/man.jpg);
+background-size: cover;
+outline:none;
+border-radius: 7px;
+margin:19px;
+}
+.content2_container{
+	display:flex;
+}
+.sub2_container{
+	width:500px;
+	margin:20px;
+	font-family:Segoe UI Symbol;
+	
+}
+.sub2_container p{
+	color:grey;
+}
+.explain_container{
+	margin-top: 45px;
+	
+}
+.list_container{
+	margin-top: 31px;
+}
+.list_container li{
+	color:grey;
+}
+.measure_conatainer{
+	margin:20px;
+	font-family:Segoe UI Symbol;
+}
+.review_container{
+margin-top:20px;	
+}
+.box1_container{
+	display: flex;
+    margin-left: 1px;
+    gap: 2em;
+    padding: 9px;
+    margin: 13px;
+	margin-top:23px;
+	
+}
+.box2_container{
+	display: flex;
+    margin-left: 1px;
+    gap: 2em;
+    padding: 9px;
+    margin: 13px;
+	margin-top:13px;
+}
+.review_container{
+	display:flex;
+}
+.review_container p{
+	color:blue;
+}
+.size_conatiner{
+	display:flex;
+	margin:10px;
+	gap: 11em;
+	margin-top:23px;
+}
+.none{
+	border:1px solid grey;
+	width:30px;
+	height:30px;
+	border-radius:3px;
+	text-align: center;
+	background-color:#aba2a233;
+}
+.none hr{
+	margin-top: 14px;
+}
+.xs{
+	border:1px solid grey;
+	width:30px;
+	height:30px;
+	border-radius:3px;
+	text-align: center;
+	background-color:#aba2a233;
+}
+.s{
+	border:2px solid #0000ff85;
+	width:30px;
+	height:30px;
+	border-radius:3px;
+	text-align: center;
+	background-color:#aba2a233;
+}
+.m{
+	border:1px solid grey;
+	width:30px;
+	height:30px;
+	border-radius:3px;
+	text-align: center;
+	background-color:#aba2a233;
+}
+.l{
+border:1px solid grey;
+	width:30px;
+	height:30px;
+border-radius:3px;
+text-align: center;
+background-color:#aba2a233;	
+}
+.xl{
+	border:1px solid grey;
+	width:30px;
+	height:30px;
+	border-radius:3px;
+	text-align: center;
+	background-color:#aba2a233;
+}
+.xxl{
+	border:1px solid grey;
+	width:30px;
+	height:30px;
+	border-radius:3px;
+	text-align: center;
+	background-color:#aba2a233;
+}
+.xxxl{
+	border:1px solid grey;
+	width:30px;
+	height:30px;
+	border-radius:3px;
+	text-align: center;
+	background-color:#aba2a233;
+}
+.btn_container{
+	    width: 241px;
+    height: 26px;
+    margin-left: 24px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    background-color: blue;
+    margin-top: 38px;
+	
+}
+.btn_container a{
+    text-decoration:none;
+	color:white;
+	padding-left:74px;
+	text-align:center;
+	
+	
+}
+.color1_container{
+	margin-top:25px;
+}
+.color_container{
+	display:flex;
+	gap:2em;
+	margin-top:13px;
+}
+.white{
+	border: 3px solid grey;
+    border-radius: 46px;
+    width: 23px;
+    height: 23px;
+}
+.grey{
+	border: 3px solid grey;
+    border-radius: 46px;
+    width: 15px;
+    height: 15px;
+	background-color:grey;
+}
+.black{
+	border: 3px solid black;
+    border-radius: 46px;
+    width: 15px;
+    height: 15px;
+	background-color:black;
+}
